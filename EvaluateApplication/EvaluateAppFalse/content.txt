@@ -1,6 +1,6 @@
 !*** Go to Records
 !|script|
-|click on menu|Records|
+|click on menu|Reports|
 |click on record type |Whole of Government - Applications|
 | click on record type user filter | Me |
 | click on grid | [1] | column | [1] | row | [1] |
