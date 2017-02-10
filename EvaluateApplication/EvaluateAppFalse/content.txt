@@ -1,5 +1,5 @@
 !*** Go to Records
 !|script|
-|click on menu|Records
+|click on menu|Reports
 |click on record type |Whole of Government - Applications|
 ***!
